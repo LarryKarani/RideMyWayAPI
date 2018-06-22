@@ -1,0 +1,11 @@
+Api/m-env/*
+*.vscode
+*.coverage
+Api/__pycache__/*
+
+*.pytest_cache
+*.pickle
+m-env
+*.pyc
+*.DS_Store
+venv/
